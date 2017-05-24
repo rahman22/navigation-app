@@ -231,9 +231,36 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
+
 ### Screenshot App
+
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/28509637/26402275/0ac495f6-40a3-11e7-9b36-23949dd64123.png" width="400"/>
    <img src="https://cloud.githubusercontent.com/assets/28509637/26402276/0b007d5a-40a3-11e7-9664-004d27461843.png" width="400"/>
 </p>
+
+
+
+#### style.xml
+
+
+```xml
+<resources>
+
+    <!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+</style>
+
+</resources>
+```
+
+
+
