@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:id="@+id/number1">
+        <item
+            android:id="@+id/item_one"
+            android:checkable="true"
+            android:icon="@drawable/num1"
+            android:title="Number One" />
+
+        <item
+            android:id="@+id/item_two"
+            android:checkable="true"
+            android:icon="@drawable/num2"
+            android:title="Number Two" />
+        <item
+            android:id="@+id/item_three"
+            android:checkable="true"
+            android:icon="@drawable/num3"
+            android:title="Number Three" />
+
+    </group>
+
+    <group android:id="@+id/number2">
+
+        <item
+            android:id="@+id/item_four"
+            android:checkable="true"
+            android:icon="@drawable/num4"
+            android:title="Number Four" />
+        <item
+            android:id="@+id/item_five"
+            android:checkable="true"
+            android:icon="@drawable/num5"
+            android:title="Number Five" />
+        <item
+            android:id="@+id/item_six"
+            android:checkable="true"
+            android:icon="@drawable/num6"
+            android:title="Number Six" />
+
+    </group>
+
+    <group android:id="@+id/number3">
+
+        <item
+            android:id="@+id/item_seven"
+            android:checkable="true"
+            android:icon="@drawable/num7"
+            android:title="Number Seven" />
+        <item
+            android:id="@+id/item_eight"
+            android:checkable="true"
+            android:icon="@drawable/num8"
+            android:title="Number Eight" />
+        <item
+            android:id="@+id/item_nine"
+            android:checkable="true"
+            android:icon="@drawable/num9"
+            android:title="Number Nine" />
+
+    </group>
+
+
+</menu>
+
