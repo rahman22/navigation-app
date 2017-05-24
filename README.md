@@ -116,8 +116,6 @@ compile 'com.android.support:design:25.3.1'
     </LinearLayout>
 </RelativeLayout>
 
-
-
 ```
 
 ##### main_menu.xml
@@ -233,6 +231,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ### Screenshot App
+
 
 
 <p align="center">
